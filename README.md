@@ -30,6 +30,7 @@ also can introduce researches to:
 
 <details>
     <summary>Linux Basics For Hackers</summary>
+    <br>
     <details>
         <summary>1st week</summary>
 
