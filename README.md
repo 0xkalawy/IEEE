@@ -26,6 +26,8 @@ also can introduce researches to:
 - [DNS](https://www.youtube.com/watch?v=oSFbF8Yb67s&list=PLtr9ezc61PUbA2l3MiE4YbrgITJN84N-C&index=28)
 - [HTTP Protocol](https://www.youtube.com/watch?v=I0Tt1QBZ1Lc&list=PLtr9ezc61PUbA2l3MiE4YbrgITJN84N-C&index=29)
 
+---
+
 ### Linux
 
 [Book Link](https://kea.nu/files/textbooks/humblesec/linuxbasicsforhackers.pdf)
@@ -65,6 +67,8 @@ also can introduce researches to:
   </details>
 
 </details>
+
+---
 
 ### Security+
 
