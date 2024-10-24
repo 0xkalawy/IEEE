@@ -32,35 +32,24 @@ also can introduce researches to:
 <details>
     <summary>Linux Basics For Hackers</summary>
     <details>
-        <summary>1st week</summary>
 
+**1st week**
 - [ ] **Chapter 1**
 - [ ] **Chapter 2**
 - [ ] **Chapter 4**
 - [ ] **Chapter 5**
-
-    </details>
-<details>
-        <summary>2nd week</summary>
-
+**2nd week**
 - [ ] **Chapter 6**
 - [ ] **Chapter 7**
 - [ ] **Chapter 8**
 - [ ] **Chapter 9**
-
-    </details>
-<details>
-        <summary>3th week</summary>
-
+**3th week**
 - [ ] **Chapter 10**
 - [ ] **Chapter 12**
 - [ ] **Chapter 13**
 - [ ] **Chapter 14**
 - [ ] **Chapter 17**
-
 </details>
-
----
 
 ### Security+ ()
 
