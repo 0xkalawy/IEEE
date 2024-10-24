@@ -32,6 +32,7 @@ also can introduce researches to:
     <summary>Linux Basics For Hackers</summary>
     <details>
         <summary>1st week</summary>
+        
 - [ ] **Chapter 1**
 - [ ] **Chapter 2**
 - [ ] **Chapter 4**
@@ -39,6 +40,7 @@ also can introduce researches to:
     </details>
     <details>
         <summary>2nd week</summary>
+
 - [ ] **Chapter 6**
 - [ ] **Chapter 7**
 - [ ] **Chapter 8**
@@ -46,6 +48,7 @@ also can introduce researches to:
     </details>
     <details>
         <summary>3th week</summary>
+
 - [ ] **Chapter 10**
 - [ ] **Chapter 12**
 - [ ] **Chapter 13**
