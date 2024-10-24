@@ -31,7 +31,7 @@ also can introduce researches to:
 <details>
     <summary>Linux Basics For Hackers</summary>
     <br>
-    <details>
+    &nbsp;<details>
         <summary>1st week</summary>
 
 - [ ] **Chapter 1**
