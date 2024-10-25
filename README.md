@@ -91,6 +91,8 @@ also can introduce researches to:
 - [ ] 18- Explaining Digital Forensics
 - [ ] 19- Summarizing Risk Management Concepts
 
+---
+
 ### Programming
 1. **Python Basics**
    - **Syntax & Data Types**: Variables, strings, numbers, booleans, and basic operations.
