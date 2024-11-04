@@ -33,7 +33,7 @@
 - [Search](https://www.hackthebox.com/machines/Search) --> Active Directory, SMB, Kerberos, Privilege Escalation (Hard)
 - [Monteverde](https://www.hackthebox.com/machines/Monteverde) --> AD, SMB, privilege escalation (Medium)
 - [Intelligence](https://www.hackthebox.com/machines/Intelligence) --> AD, PowerShell (Medium)
--[Sizzle](https://www.hackthebox.com/machines/Sizzle) --> AD, SMB, NTLM, AD, Kerberos (Isane)
+- [Sizzle](https://www.hackthebox.com/machines/Sizzle) --> AD, SMB, NTLM, AD, Kerberos (Isane)
 - [APT](https://www.hackthebox.com/machines/apt) --> RPC, NTLM (Insane)
 - [Object](https://www.hackthebox.com/machines/object) --> Jenkins, Windows (Hard)
 - [Support](https://www.hackthebox.com/machines/support) --> SMB, LDAP, AD (Easy)
