@@ -1,8 +1,7 @@
 # OSCP
 
 ## Labs
-
-### General Labs
+### By Topic
 
 1. **Jr PenTester**  
    [TryHackMe Jr Penetration Tester Path](https://tryhackme.com/path-action/jrpenetrationtester/join)
@@ -22,7 +21,7 @@
 6. **Shell and Privilege Escalation**  
    [TryHackMe Shell and Privilege Escalation Module](https://tryhackme.com/module/privileg)
 
-
+### General Labs
 - [Active](https://www.hackthebox.com/machines/active) --> Active diectory gaining ccess (Easy)
 - [Multimaster](https://www.hackthebox.com/machines/multimaster) --> Windows, SQL injection, gaining access, Privilege Escalation (Insane)
 - [VulnNet: Active](https://tryhackme.com/r/room/vulnnetactive) --> Windows Exploitation 
@@ -41,3 +40,4 @@
 - [Timelapse](https://www.hackthebox.com/machines/timelapse) --> SMB, Windows (Easy)
 - [StreamIO](https://www.hackthebox.com/machines/streamio) --> SQL, LFI, LDAP (Medium)
 - [Scrambled](https://www.hackthebox.com/machines/Scrambled) --> SQL, AD, Windows (Medium)
+- [OSCP Like](https://0xdf.gitlab.io/tags#oscp-like-v3)
