@@ -9,7 +9,7 @@ In addition to joining CTFs :
 - IEEE CTF
 - ...
 
-also can introduce research to:
+also can introduce researches to:
 - Portswigger
 - BlackHat MEA
 
@@ -28,6 +28,16 @@ also can introduce research to:
 - [HTTP Protocol](https://www.youtube.com/watch?v=I0Tt1QBZ1Lc&list=PLtr9ezc61PUbA2l3MiE4YbrgITJN84N-C&index=29)
 
 ---
+
+### Windows
+- [ ] [Core Commands - 01](https://www.youtube.com/watch?v=ElVEasQTNNI&list=PLtr9ezc61PUbA2l3MiE4YbrgITJN84N-C&index=14&t=276s&pp=iAQB)
+- [ ] [Core Commands - 02](https://www.youtube.com/watch?v=quGb1aWtBTw&list=PLtr9ezc61PUbA2l3MiE4YbrgITJN84N-C&index=15&pp=iAQB)
+- [ ] [File System & Permissions](https://www.youtube.com/watch?v=bAYcjzZKPiQ&list=PLtr9ezc61PUbA2l3MiE4YbrgITJN84N-C&index=16&pp=iAQB)
+- [ ] [Users & Groups](https://www.youtube.com/watch?v=HlGJDD96H0Q&list=PLtr9ezc61PUbA2l3MiE4YbrgITJN84N-C&index=17&pp=iAQB)
+- [ ] [UAC & Credentials & Security Policy](https://www.youtube.com/watch?v=ZGeZbjp9n3k&list=PLtr9ezc61PUbA2l3MiE4YbrgITJN84N-C&index=18&pp=iAQB)
+- [ ] [Registry](https://www.youtube.com/watch?v=JeWb5uvtLBw&list=PLtr9ezc61PUbA2l3MiE4YbrgITJN84N-C&index=19&t=95s&pp=iAQB)
+- [ ] [Sharing & Services](https://www.youtube.com/watch?v=oYe7SDjmcuM&list=PLtr9ezc61PUbA2l3MiE4YbrgITJN84N-C&index=20&pp=iAQB)
+- [ ] [Processes & Scheduling Tasks](https://www.youtube.com/watch?v=rsT-_63KF8M&list=PLtr9ezc61PUbA2l3MiE4YbrgITJN84N-C&index=21&pp=iAQB)
 
 ### Linux
 
