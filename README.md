@@ -83,6 +83,10 @@ also can introduce researches to:
 
 ---
 
+### Crypto
+- [ ] [Information Security & Crypto](https://www.youtube.com/playlist?list=PLd2pEan0ZG_Y1lTa4mXV1y0h-iJjINrqX)
+
+---
 ### Security+
 
 [Course Link](https://netriders.academy/courses/security/)
