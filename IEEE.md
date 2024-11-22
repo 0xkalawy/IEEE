@@ -9,7 +9,7 @@ In addition to joining CTFs :
 - IEEE CTF
 - ...
 
-also can introduce researches to:
+also can introduce research to:
 - Portswigger
 - BlackHat MEA
 
