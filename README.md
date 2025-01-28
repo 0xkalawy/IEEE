@@ -9,7 +9,7 @@ In addition to joining CTFs :
 - IEEE CTF
 - ...
 
-also can introduce researches to:
+also can introduce research to:
 - Portswigger
 - BlackHat MEA
 
@@ -34,7 +34,7 @@ also can introduce researches to:
   
 ---
 
-### Linux
+### Linux & Windows
 
 [Book Link](https://kea.nu/files/textbooks/humblesec/linuxbasicsforhackers.pdf)
 
@@ -78,7 +78,6 @@ also can introduce researches to:
 - [ ] [Linux FUndementals THM](https://tryhackme.com/r/module/linux-fundamentals)
 - [ ] [Over the wire - Bandit Labs](https://overthewire.org/wargames/bandit/)
 
----
 
 ### Windows
 - [ ] [Core Commands - 01](https://www.youtube.com/watch?v=ElVEasQTNNI&list=PLtr9ezc61PUbA2l3MiE4YbrgITJN84N-C&index=14&t=276s&pp=iAQB)
@@ -91,12 +90,7 @@ also can introduce researches to:
 - [ ] [Processes & Scheduling Tasks](https://www.youtube.com/watch?v=rsT-_63KF8M&list=PLtr9ezc61PUbA2l3MiE4YbrgITJN84N-C&index=21&pp=iAQB)
 
 ---
-
-### Crypto
-- [ ] [Information Security & Crypto](https://www.youtube.com/playlist?list=PLd2pEan0ZG_Y1lTa4mXV1y0h-iJjINrqX)
-- [ ] [](https://youtu.be/12SGIvEOzfo?si=0p4pSZVUC3dVrQFT)
----
-### Security+
+### Security+ & Crypto
 
 [Course Link](https://mega.nz/folder/GrAA1RTZ#xIrWTPN1yuMNKcLnzOm57Q/folder/HrJ3mSxZ)
 
@@ -121,3 +115,6 @@ also can introduce researches to:
 - [ ] 16- Explaining Data Privacy and Protection Concepts
 - [ ] 18- Explaining Digital Forensics
 - [ ] 19- Summarizing Risk Management Concepts
+### Crypto
+- [ ] [Information Security & Crypto](https://www.youtube.com/playlist?list=PLd2pEan0ZG_Y1lTa4mXV1y0h-iJjINrqX)
+- [ ] [](https://youtu.be/12SGIvEOzfo?si=0p4pSZVUC3dVrQFT)
