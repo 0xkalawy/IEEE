@@ -15,8 +15,8 @@ also can introduce researches to:
 
 ## Roadmap
 
-### Network
-
+### Network (First Week)
+**First Resource**
 - [Basic Computer Networking (Tutorial)](https://www.geeksforgeeks.org/basics-computer-networking/)
 - [Physical Layer](https://www.youtube.com/watch?v=6VsCufW2F80&list=PLtr9ezc61PUbA2l3MiE4YbrgITJN84N-C&index=22)
 - [Data Link Layer](https://www.youtube.com/watch?v=uw_qFED5CxU&list=PLtr9ezc61PUbA2l3MiE4YbrgITJN84N-C&index=23)
@@ -26,7 +26,12 @@ also can introduce researches to:
 - [Transport Layer](https://www.youtube.com/watch?v=P2B5wiO8htY&list=PLtr9ezc61PUbA2l3MiE4YbrgITJN84N-C&index=27)
 - [DNS](https://www.youtube.com/watch?v=oSFbF8Yb67s&list=PLtr9ezc61PUbA2l3MiE4YbrgITJN84N-C&index=28)
 - [HTTP Protocol](https://www.youtube.com/watch?v=I0Tt1QBZ1Lc&list=PLtr9ezc61PUbA2l3MiE4YbrgITJN84N-C&index=29)
+  
+**Second Resource**
 
+**Tasks**
+- [ ] [TryHackMe labs](https://tryhackme.com/r/module/network-fundamentals)
+  
 ---
 
 ### Linux
