@@ -117,4 +117,4 @@ also can introduce research to:
 - [ ] 19- Summarizing Risk Management Concepts
 ### Crypto
 - [ ] [Information Security & Crypto](https://www.youtube.com/playlist?list=PLd2pEan0ZG_Y1lTa4mXV1y0h-iJjINrqX)
-- [ ] [](https://youtu.be/12SGIvEOzfo?si=0p4pSZVUC3dVrQFT)
+- [ ] [Encryption Hashing Encoding and Salting](https://youtu.be/12SGIvEOzfo?si=0p4pSZVUC3dVrQFT)
