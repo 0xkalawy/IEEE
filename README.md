@@ -109,9 +109,9 @@ also can introduce researches to:
 - [ ] 06- Implementing Public Key Infrastructure
 - [ ] 07- Implementing Authentication Controls
 - [ ] 09- Implementing Secure Network Designs
-**5th week**
 - [ ] 10- Implementing Network Security Appliances
 - [ ] 11- Implementing Secure Network Protocols
+**5th Week**
 - [ ] 12- Implementing Host Security Solutions
 - [ ] 13- Implementing Secure Mobile Solutions
 - [ ] 14- Summarizing Secure Application Concepts
