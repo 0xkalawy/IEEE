@@ -74,6 +74,10 @@ also can introduce researches to:
 
 </details>
 
+**Tasks**
+- [ ] [Linux FUndementals THM](https://tryhackme.com/r/module/linux-fundamentals)
+- [ ] [Over the wire - Bandit Labs](https://overthewire.org/wargames/bandit/)
+
 ---
 
 ### Windows
@@ -95,15 +99,17 @@ also can introduce researches to:
 ### Security+
 
 [Course Link](https://netriders.academy/courses/security/)
-
+**3rd Week**
 - [ ] 01- Comparing Security Roles and Security Controls
 - [ ] 02- Explaining Threat Actors and Threat Intelligence
 - [ ] 03- Performing Security Assessments
 - [ ] 04- Identifying Social Engineering and Malware
 - [ ] 05- Summarizing Basic Cryptographic Concepts
+**4th Week**
 - [ ] 06- Implementing Public Key Infrastructure
 - [ ] 07- Implementing Authentication Controls
 - [ ] 09- Implementing Secure Network Designs
+**5th week**
 - [ ] 10- Implementing Network Security Appliances
 - [ ] 11- Implementing Secure Network Protocols
 - [ ] 12- Implementing Host Security Solutions
