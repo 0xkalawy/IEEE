@@ -118,3 +118,18 @@ also can introduce research to:
 ### Crypto
 - [ ] [Information Security & Crypto](https://www.youtube.com/playlist?list=PLd2pEan0ZG_Y1lTa4mXV1y0h-iJjINrqX)
 - [ ] [Encryption Hashing Encoding and Salting](https://youtu.be/12SGIvEOzfo?si=0p4pSZVUC3dVrQFT)
+
+---
+
+### Intermediate
+[TCM Security - Practical Ethical Hacking](https://academy.tcm-sec.com/courses/enrolled/1152300)
+
+**1st Week**
+- [ ] Information Gathering (Reconnaissance)
+- [ ] [HTML Crash Course](https://www.youtube.com/watch?v=q3yFo-t1ykw&pp=ygUgaHRtbCBjcmFzaCBjb3Vyc2Ug2KjYp9mE2LnYsdio2Yo%3D)
+- [ ] [JS Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=2s&pp=ygUPanMgY3Jhc2ggY291cnNl)
+
+**2nd Week**
+- [ ] [Node JS crash course](https://www.youtube.com/watch?v=32M1al-Y6Ag&pp=ygUUTm9kZSBqcyBjcmFzaCBjb3Vyc2U%3D)
+- [ ] [SQL Crash Course](https://www.sololearn.com/en/learn/courses/sql-introduction)
+- [ ] [OWASP Top 10 overview](https://www.youtube.com/playlist?list=PLyqga7AXMtPOguwtCCXGZUKvd2CDCmUgQ)
