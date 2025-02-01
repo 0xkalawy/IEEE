@@ -28,6 +28,7 @@ also can introduce research to:
 - [HTTP Protocol](https://www.youtube.com/watch?v=I0Tt1QBZ1Lc&list=PLtr9ezc61PUbA2l3MiE4YbrgITJN84N-C&index=29)
   
 **Second Resource**
+[Network Basics for hackers CH 1,2](https://drive.google.com/file/d/1eJD7fxvPswl0mzc_8ymqIVjv2nosRryN/view?usp=sharing)
 
 **Tasks**
 - [ ] [TryHackMe labs](https://tryhackme.com/room/whatisnetworking)
