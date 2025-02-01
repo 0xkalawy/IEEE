@@ -30,7 +30,9 @@ also can introduce research to:
 **Second Resource**
 
 **Tasks**
-- [ ] [TryHackMe labs](https://tryhackme.com/r/module/network-fundamentals)
+- [ ] [TryHackMe labs](https://tryhackme.com/room/whatisnetworking)
+- [ ] [Subnetting](https://www.subnetting.net/Summary.aspx)
+- [ ] [HTTP THM](https://tryhackme.com/room/httpindetail)
   
 ---
 
