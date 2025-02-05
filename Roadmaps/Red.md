@@ -22,9 +22,14 @@ developing the features of the book store using Node JS and SQL.
 ## Third Week
 - [ ] [Portswigger Authentication Vulnerabilities](https://portswigger.net/web-security/learning-paths/authentication-vulnerabilities)
 - [ ] [Portswigger Access Control](https://portswigger.net/web-security/access-control)
+- [ ] Read These reports from Amr Kadry: [Account Takeover](https://0d-amr.medium.com/account-takeover-how-i-gained-access-to-any-user-account-through-a-simple-registration-flaw-96f9f6bdc0ae), [Bypass Email Verification](https://0d-amr.medium.com/bypass-email-verification-in-mozilla-2ab45ac36c42), [Gaining free access for premium features](https://0d-amr.medium.com/from-an-out-of-scope-bug-to-unlocking-lifetime-premium-accounts-in-mozilla-fe96371d814c)
+- [ ] Here are your friends: [OWASP Guide for testing Authentication Vulnerabilities](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/04-Authentication_Testing/README) , [OWASP Guide for testing Authorization Vulnerabilities](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/05-Authorization_Testing/README)
 
 ### Tasks
 - [ ] Solving the challenges of Portswigger
 - [ ] Doing an assessment on your book store and provide a report. (If your book store is strongly secured, which isn't for sure, there are some bugs' scenarios that will come to your mind and you should provide it in your report)
 - [ ] Solving [THM Broken Access Control](https://tryhackme.com/room/owaspbrokenaccesscontrol)
 - [ ] Solving [THM Authentication](https://tryhackme.com/module/authentication)
+- [ ] Summarize 10 reports of your choice from [Top H1 Authentication Vulnerabilities](https://github.com/reddelexc/hackerone-reports/blob/master/tops_by_bug_type/TOPAUTH.md)
+- [ ] Summarize 10 reports of your choice from [Top H1 Authorization Vulnerabilities](https://github.com/reddelexc/hackerone-reports/blob/master/tops_by_bug_type/TOPAUTHORIZATION.md)
+
