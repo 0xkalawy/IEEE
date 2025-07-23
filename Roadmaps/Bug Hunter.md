@@ -73,3 +73,21 @@ developing the features of the book store using Node JS and SQL.
 - [ ]  try to implement vulnerable functions in your app , and secure them !
 - [ ]  read the top-disclosed reports for these bugs on hackerone [exist on Github repo](https://github.com/reddelexc/hackerone-reports)
 - [ ]  Solve any ctf challege on tryhackme or hackthebox or picoCTF and discuss it in the channel
+
+
+## Seventh Week (Hands On)
+1. Read [aricle by Qarmany](https://deepstrike.io/blog/fundamental-web-components-every-pentesters-must-know) 
+
+### Tasks
+
+**Very Easy**
+
+- [ ]  [Logon - PicoCTF](https://play.picoctf.org/practice/challenge/46?category=1&page=1)
+- [ ]  [Only Hacks - HTB](https://app.hackthebox.com/challenges/OnlyHacks)
+- [ ]  [Flag Command - HTB](https://app.hackthebox.com/challenges/Flag%2520Command)
+
+**Medium**
+
+- [ ]  [Runes -HTB](https://app.hackthebox.com/challenges/Dark%2520Runes)
+- [ ]  [Dream Store - Aswan CTF](https://t.co/hjLkdM63p2)
+- [ ]  [Eval - picoCTF](https://play.picoctf.org/practice/challenge/484?category=1&difficulty=2&page=1&solved=0)
