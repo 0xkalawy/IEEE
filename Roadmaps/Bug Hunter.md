@@ -1,5 +1,5 @@
 # Bug Hunter Roadmap
-## First Week
+## 1st Week
 - [ ] [Information Gathering - TCM Security](https://academy.tcm-sec.com/courses/enrolled/1152300)
 - [ ] [HTML Crash Course](https://www.youtube.com/watch?v=q3yFo-t1ykw&pp=ygUgaHRtbCBjcmFzaCBjb3Vyc2Ug2KjYp9mE2LnYsdio2Yo%3D)
 - [ ] [JS Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=2s&pp=ygUPanMgY3Jhc2ggY291cnNl)
@@ -11,7 +11,7 @@ Creating simple book store using HTML and JS. Considering the following:
 - The buyer can buy a book from the store.
 - The seller can view the buyer's information which provided during the purchase.
 
-## Second Week
+## 2nd Week
 - [ ] [Node JS crash course](https://www.youtube.com/watch?v=32M1al-Y6Ag&pp=ygUUTm9kZSBqcyBjcmFzaCBjb3Vyc2U%3D)
 - [ ] [SQL Crash Course](https://www.sololearn.com/en/learn/courses/sql-introduction)
 - [ ] [OWASP Top 10 overview](https://www.youtube.com/playlist?list=PLyqga7AXMtPOguwtCCXGZUKvd2CDCmUgQ)
@@ -19,7 +19,7 @@ Creating simple book store using HTML and JS. Considering the following:
 ### Tasks
 developing the features of the book store using Node JS and SQL.
 
-## Third Week
+## 3rd Week
 - [ ] [Portswigger Authentication Vulnerabilities](https://portswigger.net/web-security/learning-paths/authentication-vulnerabilities)
 - [ ] [Portswigger Access Control](https://portswigger.net/web-security/access-control)
 - [ ] Read These reports from Amr Kadry: [Account Takeover](https://0d-amr.medium.com/account-takeover-how-i-gained-access-to-any-user-account-through-a-simple-registration-flaw-96f9f6bdc0ae), [Bypass Email Verification](https://0d-amr.medium.com/bypass-email-verification-in-mozilla-2ab45ac36c42), [Gaining free access for premium features](https://0d-amr.medium.com/from-an-out-of-scope-bug-to-unlocking-lifetime-premium-accounts-in-mozilla-fe96371d814c)
@@ -33,7 +33,7 @@ developing the features of the book store using Node JS and SQL.
 - [ ] Summarize 10 reports of your choice from [Top H1 Authentication Vulnerabilities](https://github.com/reddelexc/hackerone-reports/blob/master/tops_by_bug_type/TOPAUTH.md)
 - [ ] Summarize 10 reports of your choice from [Top H1 Authorization Vulnerabilities](https://github.com/reddelexc/hackerone-reports/blob/master/tops_by_bug_type/TOPAUTHORIZATION.md)
 
-## Fourth week
+## 4th week
 - [ ] [SQLi Portswigger](https://portswigger.net/web-security/sql-injection)
 - [ ] [Testing For SQLi OWASP](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/05-Testing_for_SQL_Injection)
 
@@ -44,7 +44,7 @@ developing the features of the book store using Node JS and SQL.
 - [ ]  Summarize 10 reports of your choice from https://github.com/reddelexc/hackerone-reports/blob/master/tops_by_bug_type/TOPSQLI.md
 
 
-## Fifth Week
+## 5th Week
 
 - [ ]  [What’s NoSQL](https://www.youtube.com/watch?v=xh4gy1lbL2k&t=5068s) (First 10 Minutes)
 - [ ]  [MongoDB (Most common NoSQL DB) Tutorial](https://www.youtube.com/watch?v=ExcRbA7fy_A&list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA) (First 18 Videos)
@@ -60,7 +60,7 @@ developing the features of the book store using Node JS and SQL.
 - [ ]  Solve Portswigger Labs
 - [ ]  Summarizzing the difference between SQL and NoSQL (Preferred to be on Medium and feel free to explain the vulnerabilities too)
 
-## Sixth Week
+## 6th Week
 
 - [ ]  https://portswigger.net/web-security/file-path-traversal
 - [ ]  https://portswigger.net/web-security/os-command-injection
@@ -75,19 +75,17 @@ developing the features of the book store using Node JS and SQL.
 - [ ]  Solve any ctf challege on tryhackme or hackthebox or picoCTF and discuss it in the channel
 
 
-## Seventh Week (Hands On)
+## 7th Week (Hands On)
 1. Read [aricle by Qarmany](https://deepstrike.io/blog/fundamental-web-components-every-pentesters-must-know) 
 
 ### Tasks
+- [ ] Each part of the article isn't fully detailed, so it's up to you to continue searching, and that's the challenge
 
-**Very Easy**
+## 8th Week
+From now and then we will follow this [playlist](https://www.youtube.com/playlist?list=PL5T7sibJnZsNR7c5LH853v6jlF4pusPrH). and the tasks are gonna be practising what you watch on your fav program
 
-- [ ]  [Logon - PicoCTF](https://play.picoctf.org/practice/challenge/46?category=1&page=1)
-- [ ]  [Only Hacks - HTB](https://app.hackthebox.com/challenges/OnlyHacks)
-- [ ]  [Flag Command - HTB](https://app.hackthebox.com/challenges/Flag%2520Command)
-
-**Medium**
-
-- [ ]  [Runes -HTB](https://app.hackthebox.com/challenges/Dark%2520Runes)
-- [ ]  [Dream Store - Aswan CTF](https://t.co/hjLkdM63p2)
-- [ ]  [Eval - picoCTF](https://play.picoctf.org/practice/challenge/484?category=1&difficulty=2&page=1&solved=0)
+- [ ] [How to pick a target](https://youtu.be/ix8yFSJbEHY?si=r8mx317s7fD_vgTK)
+- [ ] [Back to the Basics - Web Fundamental to 100k a Year in Bug Bounty (Ep. 99)](https://youtu.be/yxc2jVKE-jo?si=x7TBe8-J8xh7U-Dv)
+- [ ] [@YassineAboukir Talks About His Recon Flow, Bug Bounty, Mental Health and More!](https://youtu.be/FU1fWMwGMuY?si=tsUZRgHPDn0YnBnl)
+- [ ] [Live Recon: Hacking Tinder's Bug Bounty Program (with @Rhynorater)](https://youtu.be/IWIchfPJUGo?si=A9lCQwDz3WP1l1k1)
+**Disclaimer**: The target used in this session is a dating app, which is recommended not to work on as advised by **Dar Al Ifta**

@@ -12,25 +12,16 @@
 **Articles**
 - [ ]  [The “Criminal Mind” in security Testing article - Pnetesterlab](https://pentesterlab.com/blog/criminal-mindset-in-security-testing)
 
-<aside>
-💡
-
-The additional mateial me be a little bit hard for the begginers so it’s optional, but it’s mandatory for old boys
-
-</aside>
-
 ### Tasks
 
 - [ ]  [Country DB - Alpahack](https://alpacahack.com/challenges/country-db)
     
     <aside>
     💡
-    
     looks kinda hard but once you give it some time for debugging and searching will be so easy, it’s allowed to get some help from chatGPT
     
     </aside>
     
-- [ ]  [Billing Machine - THM (Optional)](https://tryhackme.com/room/billing)
 - [ ]  [Simple SSTI - Dream Hack](https://dreamhack.io/wargame/challenges/39)
 - [ ]  For old,Partcicpate in as much as you can: (Optional)
     - [ ]  https://ctftime.org/event/2825
@@ -49,3 +40,13 @@ The additional mateial me be a little bit hard for the begginers so it’s optio
 Feel free to participate in L0ck8y7e team on [Discord](https://discord.gg/xY4Cxdzu) and [CTFtime](https://ctftime.org/team/350754)
 
 </aside>
+
+## Second Week
+
+### Tasks
+- [ ]  [Logon - PicoCTF](https://play.picoctf.org/practice/challenge/46?category=1&page=1)
+- [ ]  [Only Hacks - HTB](https://app.hackthebox.com/challenges/OnlyHacks)
+- [ ]  [Flag Command - HTB](https://app.hackthebox.com/challenges/Flag%2520Command)
+- [ ]  [Dream Store - Aswan CTF](https://t.co/hjLkdM63p2)
+- [ ]  [Eval - picoCTF](https://play.picoctf.org/practice/challenge/484?category=1&difficulty=2&page=1&solved=0)
+- [ ]  [Runes -HTB](https://app.hackthebox.com/challenges/Dark%2520Runes)
