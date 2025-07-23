@@ -32,3 +32,44 @@ developing the features of the book store using Node JS and SQL.
 - [ ] Solving [THM Authentication](https://tryhackme.com/module/authentication)
 - [ ] Summarize 10 reports of your choice from [Top H1 Authentication Vulnerabilities](https://github.com/reddelexc/hackerone-reports/blob/master/tops_by_bug_type/TOPAUTH.md)
 - [ ] Summarize 10 reports of your choice from [Top H1 Authorization Vulnerabilities](https://github.com/reddelexc/hackerone-reports/blob/master/tops_by_bug_type/TOPAUTHORIZATION.md)
+
+## Fourth week
+- [ ] [SQLi Portswigger](https://portswigger.net/web-security/sql-injection)
+- [ ] [Testing For SQLi OWASP](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/05-Testing_for_SQL_Injection)
+
+### Tasks
+
+- [ ]  Solving the challenges of Portswigger
+- [ ]  make Vulnerable Functions that deal with SQL in your book store and try to mitigate it
+- [ ]  Summarize 10 reports of your choice from https://github.com/reddelexc/hackerone-reports/blob/master/tops_by_bug_type/TOPSQLI.md
+
+
+## Fifth Week
+
+- [ ]  [What’s NoSQL](https://www.youtube.com/watch?v=xh4gy1lbL2k&t=5068s) (First 10 Minutes)
+- [ ]  [MongoDB (Most common NoSQL DB) Tutorial](https://www.youtube.com/watch?v=ExcRbA7fy_A&list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA) (First 18 Videos)
+- [ ]  [Portswigger NoSQL](https://portswigger.net/web-security/learning-paths/nosql-injection)
+- [ ]  [Testing Guide](https://shellcode.blog/Web-Security-Testing-Guide/4-Web_Application_Security_Testing/07-Input_Validation_Testing/05.6-Testing_for_NoSQL_Injection)
+
+
+### Tasks
+
+- [ ]  Implement NoSQL DB in a simple code (A sample will be provided later)
+- [ ]  Secure Your code
+- [ ]  [Solve NoSQL room on THM](https://tryhackme.com/room/nosqlinjectiontutorial)
+- [ ]  Solve Portswigger Labs
+- [ ]  Summarizzing the difference between SQL and NoSQL (Preferred to be on Medium and feel free to explain the vulnerabilities too)
+
+## Sixth Week
+
+- [ ]  https://portswigger.net/web-security/file-path-traversal
+- [ ]  https://portswigger.net/web-security/os-command-injection
+- [ ]  https://portswigger.net/web-security/information-disclosure
+
+
+## Tasks
+
+- [ ]  Solve all portswigger labs for each topic
+- [ ]  try to implement vulnerable functions in your app , and secure them !
+- [ ]  read the top-disclosed reports for these bugs on hackerone [exist on Github repo](https://github.com/reddelexc/hackerone-reports)
+- [ ]  Solve any ctf challege on tryhackme or hackthebox or picoCTF and discuss it in the channel
