@@ -89,3 +89,16 @@ From now and then we will follow this [playlist](https://www.youtube.com/playlis
 - [ ] [@YassineAboukir Talks About His Recon Flow, Bug Bounty, Mental Health and More!](https://youtu.be/FU1fWMwGMuY?si=tsUZRgHPDn0YnBnl)
 - [ ] [Live Recon: Hacking Tinder's Bug Bounty Program (with @Rhynorater)](https://youtu.be/IWIchfPJUGo?si=A9lCQwDz3WP1l1k1)
 **Disclaimer**: The target used in this session is a dating app, which is recommended not to work on as advised by **Dar Al Ifta**
+
+### Tasks
+- [ ] Practise what you've learnt
+- [ ] Summarize the content
+
+## 9th Week
+- [ ] [Live Recon: Hacker Interview: Naffy (nnwakelam)](https://youtu.be/U8tCX2X_u3Y?si=iUf0wepFtIc2jDzo)
+- [ ] [Live Recon: Todayisnew Talks About Bug Bounty, Meditation, Automation, Tooling and Making $1M in Bounties!](https://youtu.be/PZIvYmj_Rls?si=UzSNCTaa0LKK85gT)
+- [ ] [Live Recon: James Kettle (albinowax) Talks About Request Smuggling, Security Research, Hacking, and More!](https://youtu.be/g8q-QuEpUkI?si=026FjtaV44Dfa7Kb)
+
+### Tasks
+- [ ] Practise what you've learnt
+- [ ] Summarize the content
