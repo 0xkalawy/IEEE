@@ -1,6 +1,5 @@
 # CTF Player/Researcher Roadmap
 ## First Week
-- [ ]  First 4 sections of [JR penetration path THM](https://tryhackme.com/path/outline/jrpenetrationtester)
 - [ ]  [Sources and SInks in source code review](https://www.youtube.com/watch?v=ZaOtY4i5w_U&t=10s&pp=ygUbc291cmNlIGFuZCBzaW5rIGNvZGUgcmV2aWV3)
 
 **Unicode normalization**
