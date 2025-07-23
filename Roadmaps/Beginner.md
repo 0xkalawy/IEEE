@@ -24,6 +24,8 @@
 ## Second Week (Linux & Windows)
 ### Primary Resource
 - [ ] [Hassan Saad Videos From 1 to 21](https://www.youtube.com/playlist?list=PLtr9ezc61PUbA2l3MiE4YbrgITJN84N-C)
+- [ ] [How SSH works](https://www.youtube.com/watch?v=5JvLV2-ngCI&pp=ygUDc3No)
+- [ ] [Bash Crash Course](https://www.youtube.com/watch?v=tK9Oc6AEnR4&pp=ygURYmFzaCBjcmFzaCBjb3Vyc2U%3D)
 
 ### Secondary Resource
 [Linux Basics for hackers book](https://kea.nu/files/textbooks/humblesec/linuxbasicsforhackers.pdf)
